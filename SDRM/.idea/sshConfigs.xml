@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.3.26" id="5a71c29a-b184-49c8-b5a9-f55a96d19032" port="22" nameFormat="DESCRIPTIVE" username="wxg" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.3.28" id="ce99f1c1-1391-4088-babe-7ecadb2f0fef" port="22" nameFormat="DESCRIPTIVE" username="wxg" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
